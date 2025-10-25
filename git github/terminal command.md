@@ -22,3 +22,24 @@ cd home/program files/
 
 cd ..:
 cd .. it takes one folder backward.
+
+touch:
+touch <filename.txt>  //it will create a file in the current working directory
+Ex: touch red.txt file.py //we can also create multiple filesin a single line code
+ex: touch learning/pets.txt // we can also create files in the folder if we knw the path of it.
+
+How to create a new folder?
+we can make use of mkdir
+mkdir <folder_name1> <folder-name2> <'folder name 3 '>
+
+how to delete a file?
+rm <filename.txt>
+
+how to delete a folder?
+rm -rf <folde_name> //(r= recursive, f= force ) 
+
+
+How to see hidden files?
+ls -a
+
+
