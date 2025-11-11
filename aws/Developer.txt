@@ -1,0 +1,13 @@
+AWS Global Infrastruture (https://infrastructure.aws)
+1) AWS Regions
+2) AWS Availability Zones
+3) AWS Data Centers
+4) AWS Edge locations / Points of presence
+
+
+AWS Regions
+AWS has regions all over the world.
+Names can be us-east-1, us-west-3
+A region is a cluster of data centers
+Most AWS services are region scoped
+
