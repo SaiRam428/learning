@@ -1,7 +1,6 @@
 -- question: "bookings" table has "room_id", "guest_id", "checkin_date", "checkout_date" columns
 -- we need to find the guests whose bookings are overlapped.
 
-
 -- solution
 select 
     b1.room_id, 
